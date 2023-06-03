@@ -8,8 +8,8 @@
 
 ## Навыки и инструменты
 
-- **python**
-- **pandas**
+- **Python**
+- **Pandas**
 - **Matplotlib**
 - **SciPy**
 
