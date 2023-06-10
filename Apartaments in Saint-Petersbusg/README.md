@@ -1,6 +1,6 @@
 # Анализ данных о продаже квартир
 
-[Ссылка на тетрадку](https://github.com/Andrey-Mukoseev/MyProjects/blob/main/Apartaments%20in%20Saint-Petersbusg/Apartments%20in%20Saint-Petersburg.ipynb)
+[Ссылка на тетрадку](https://github.com/Andrey-Mukoseev/YandexPracticum/blob/main/Apartaments%20in%20Saint-Petersbusg/Apartments%20in%20Saint-Petersburg.ipynb)
 
 ## Описание проекта
 
