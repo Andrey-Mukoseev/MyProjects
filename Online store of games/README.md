@@ -1,6 +1,6 @@
 # Анализ продаж игр интернет-магазина
 
-[Ссылка на тетрадку](https://github.com/Andrey-Mukoseev/MyProjects/blob/main/Online%20store%20of%20games/Online%20store%20of%20games.ipynb)
+[Ссылка на тетрадку](https://github.com/Andrey-Mukoseev/YandexPracticum/blob/main/Online%20store%20of%20games/Online%20store%20of%20games.ipynb)
 
 ## Описание проекта
 
