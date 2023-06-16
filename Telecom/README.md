@@ -1,7 +1,7 @@
 
 # Прогнозирование оттока клиентов
 
-[Ссылка на тетрадку]()
+[Ссылка на тетрадку](https://github.com/Andrey-Mukoseev/YandexPracticum/blob/main/Telecom/Telecom.ipynb)
 
 ## Описание проекта
 
