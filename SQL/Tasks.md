@@ -1,5 +1,7 @@
 ## Практика SQL запросов
 
+<img src="https://github.com/Andrey-Mukoseev/YandexPracticum/blob/images/Image.png" width="800" />
+
 1. Посчитайте, сколько компаний закрылось.
 
 ```sql
