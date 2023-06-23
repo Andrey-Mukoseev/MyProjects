@@ -1,5 +1,5 @@
 ## ER-диаграмма базы данных
-![image](https://github.com/Andrey-Mukoseev/YandexPracticum/blob/assets/Image.png)
+![image](https://github.com/Andrey-Mukoseev/YandexPracticum/blob/images/Image.png)
 
 ## Описание данных
 
