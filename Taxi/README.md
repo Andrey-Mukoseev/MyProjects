@@ -1,6 +1,6 @@
 # Прогнозирование заказов такси
 
-[Ссылка на тетрадку]()
+[Ссылка на тетрадку](https://github.com/Andrey-Mukoseev/YandexPracticum/blob/main/Taxi/Taxi.ipynb)
 
 ## Описание проекта
 
